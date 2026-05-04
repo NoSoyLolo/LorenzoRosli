@@ -1,41 +1,52 @@
 # Lorenzo Rosli
 
+Python Developer focused on automation and artificial intelligence.  
 Desarrollador Python orientado a automatización e inteligencia artificial.
 
-Me enfoco en transformar tareas repetitivas en sistemas automatizados, eficientes y escalables. Trabajo principalmente con Python, FastAPI y herramientas de automatización como n8n.
+I specialize in transforming repetitive tasks into automated, efficient, and scalable systems. I primarily work with Python, FastAPI, and automation tools like n8n.
 
-## Tecnologías
+---
+
+## Technologies
 
 - Python
 - FastAPI
 - n8n
-- APIs REST
-- Automatización de procesos
+- REST APIs
+- Process automation
 - Git / GitHub
-- Bases de datos (conceptos generales)
+- Databases (basic knowledge)
 
-## Qué hago
+---
 
-- Desarrollo de APIs para automatización
-- Integración entre servicios
-- Automatización de flujos de trabajo
-- Scripts para optimización de tareas repetitivas
+## What I Do
 
-## Proyectos destacados
+- Build APIs for automation workflows
+- Integrate external services and systems
+- Design automated processes and workflows
+- Develop scripts to optimize repetitive tasks
 
-### Automatización con n8n
-Automatización de procesos conectando APIs, servicios y lógica de negocio.
+---
 
-### API REST con FastAPI
-Diseño de APIs escalables para automatización e integración de sistemas.
+## Featured Projects
 
-### Scripts de automatización
-Herramientas en Python para resolver tareas reales de forma eficiente.
+### n8n Automation
+Process automation by connecting APIs, services, and business logic.
 
-## Objetivo
+### FastAPI REST API
+Scalable API design for automation and system integration.
 
-Busco una posición junior donde pueda trabajar en automatización real, aprender en entornos productivos y aportar soluciones escalables.
+### Automation Scripts
+Python tools to solve real-world repetitive tasks efficiently.
 
-## Contacto
+---
+
+## Goal
+
+Looking for a position where I can work on real automation projects, learn in production environments, and contribute with scalable solutions.
+
+---
+
+## Contact
 
 Email: roslilorenzo123@gmail.com
